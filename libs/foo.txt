@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-ciao mpari
-=======
 nel mezzo del cammin
->>>>>>> origin/experiment
+
